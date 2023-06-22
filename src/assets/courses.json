@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "path": "knitting",
+    "pictureUrl": "/images/knitting.jpg",
+    "title": "Knitting course",
+    "timing": "60 hours",
+    "text": "Learn to knit and explore creative techniques to knit unique garments."
+  },
+  {
+    "id": 2,
+    "path": "leather-craft",
+    "pictureUrl": "/images/leather.jpg",
+    "title": "Leather craft course",
+    "timing": "200 hours",
+    "text": "Learn the essential tricks and techniques of working with leather."
+  },
+  {
+    "id": 3,
+    "path": "pottery",
+    "pictureUrl": "/images/pottery.jpg",
+    "title": "Pottery course",
+    "timing": "160 hours",
+    "text": "Craft unique and organic ceramics using simple pottery methods."
+  },
+  {
+    "id": 4,
+    "path": "jewelry",
+    "pictureUrl": "/images/jewelry.jpg",
+    "title": "Jewelry course",
+    "timing": "80 hours",
+    "text": "Learn decorative techniques for creating a unique collection of jewelry."
+  },
+  {
+    "id": 5,
+    "path": "sewing",
+    "pictureUrl": "/images/sewing.jpg",
+    "title": "Sewing course",
+    "timing": "220 hours",
+    "text": "Learn how to use a sewing machine and start creating unique outfits from scratch."
+  }
+]

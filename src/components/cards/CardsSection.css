@@ -1,0 +1,40 @@
+.card-section {
+  padding: 4rem;
+  background: #fff;
+}
+
+.card-section h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-size: 32px;
+}
+
+.cards-cont {
+  width: 90%;
+  max-width: 1120px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.card-items-wrapper {
+  display: flex;
+  gap: 1rem;
+  padding: 4rem 0;
+}
+
+@media (max-width: 820px) {
+  .card-section {
+    padding: 2rem;
+  }
+  .card-section h1 {
+    font-size: 24px;
+  }
+
+  .card-items-wrapper {
+    flex-direction: column;
+    padding: 0;
+    margin-bottom: 1rem;
+  }
+}
