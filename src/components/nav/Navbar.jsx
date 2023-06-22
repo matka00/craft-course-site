@@ -11,7 +11,7 @@ function Navbar() {
 
   return (
     <>
-      <div className="nav-cont">
+      <section className="nav-cont">
         <nav id="navbar">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
             CRFT
@@ -59,7 +59,7 @@ function Navbar() {
             </li>
           </ul>
         </nav>
-      </div>
+      </section>
     </>
   );
 }
