@@ -1,0 +1,25 @@
+.course-header-cont {
+  width: 100%;
+  height: calc(100vh - 80px);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+}
+
+.course-header-cont img {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -200;
+  object-fit: cover;
+}
+
+.course-header-cont h1 {
+  color: #fff;
+}

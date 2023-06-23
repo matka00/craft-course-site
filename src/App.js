@@ -3,6 +3,7 @@ import "./App.css";
 import Navbar from "./components/nav/Navbar";
 import Footer from "./components/footer/Footer";
 import Home from "./components/pages/Home";
+import Course from "./components/pages/Course";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" exact element={<Home />} />
+          <Route path="/:courseId" element={<Course />} />
         </Routes>
         <Footer />
       </BrowserRouter>

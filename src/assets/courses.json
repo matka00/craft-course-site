@@ -1,42 +1,62 @@
 [
   {
     "id": 1,
-    "path": "knitting",
+    "path": "knitting1",
     "pictureUrl": "/images/knitting.jpg",
     "title": "Knitting course",
     "timing": "60 hours",
-    "text": "Learn to knit and explore creative techniques to knit unique garments."
+    "instructor": "Jane Doe",
+    "text": "Learn to knit and explore creative techniques to knit unique garments.",
+    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor malesuada venenatis. Curabitur efficitur augue eu elit interdum malesuada. Nullam commodo dolor eu lacus suscipit, nec tincidunt nisi accumsan. Aliquam sagittis condimentum condimentum. Phasellus a bibendum urna, ac vulputate purus. Integer auctor ligula ante, vel convallis orci varius ac. Cras id metus at arcu bibendum mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque id nibh egestas, bibendum velit vel, bibendum diam. Duis ac tortor augue. In ullamcorper condimentum pharetra. Nunc condimentum scelerisque nisi ut hendrerit. Vivamus eu ipsum gravida, tempus libero at, suscipit dolor.",
+    "description2": "Integer rhoncus nibh non turpis accumsan, eget aliquam purus bibendum. Praesent interdum tristique sapien, ac elementum eros venenatis posuere. Fusce quis lorem faucibus, dictum ex vel, scelerisque erat. In vel ornare eros. Phasellus tempor urna at nisi blandit, ut tristique massa iaculis. Mauris pretium augue vitae est aliquet, sit amet tristique ex luctus. Suspendisse venenatis nisi at ligula consequat egestas. Nulla aliquet vehicula neque. Pellentesque aliquam molestie scelerisque. Phasellus ultricies odio non augue ornare, porta dignissim enim faucibus.",
+    "description3": "Sed nec felis sapien. Sed et magna eget massa posuere aliquam. Proin tristique sem condimentum sem porttitor euismod. Sed mi nibh, consequat eu sagittis in, lobortis a diam. Phasellus turpis mauris, vehicula vitae elit sit amet, tempor commodo nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer id nisi sodales, auctor urna non, volutpat turpis. Praesent vel posuere nunc, et tempor est. Donec ultricies lectus ac neque congue porttitor. Nam finibus magna ac lacus semper, ac elementum ligula congue."
   },
   {
     "id": 2,
-    "path": "leather-craft",
+    "path": "leather-craft2",
     "pictureUrl": "/images/leather.jpg",
     "title": "Leather craft course",
     "timing": "200 hours",
-    "text": "Learn the essential tricks and techniques of working with leather."
+    "instructor": "John Doe",
+    "text": "Learn the essential tricks and techniques of working with leather.",
+    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor malesuada venenatis. Curabitur efficitur augue eu elit interdum malesuada. Nullam commodo dolor eu lacus suscipit, nec tincidunt nisi accumsan. Aliquam sagittis condimentum condimentum. Phasellus a bibendum urna, ac vulputate purus. Integer auctor ligula ante, vel convallis orci varius ac. Cras id metus at arcu bibendum mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque id nibh egestas, bibendum velit vel, bibendum diam. Duis ac tortor augue. In ullamcorper condimentum pharetra. Nunc condimentum scelerisque nisi ut hendrerit. Vivamus eu ipsum gravida, tempus libero at, suscipit dolor.",
+    "description2": "Integer rhoncus nibh non turpis accumsan, eget aliquam purus bibendum. Praesent interdum tristique sapien, ac elementum eros venenatis posuere. Fusce quis lorem faucibus, dictum ex vel, scelerisque erat. In vel ornare eros. Phasellus tempor urna at nisi blandit, ut tristique massa iaculis. Mauris pretium augue vitae est aliquet, sit amet tristique ex luctus. Suspendisse venenatis nisi at ligula consequat egestas. Nulla aliquet vehicula neque. Pellentesque aliquam molestie scelerisque. Phasellus ultricies odio non augue ornare, porta dignissim enim faucibus.",
+    "description3": "Sed nec felis sapien. Sed et magna eget massa posuere aliquam. Proin tristique sem condimentum sem porttitor euismod. Sed mi nibh, consequat eu sagittis in, lobortis a diam. Phasellus turpis mauris, vehicula vitae elit sit amet, tempor commodo nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer id nisi sodales, auctor urna non, volutpat turpis. Praesent vel posuere nunc, et tempor est. Donec ultricies lectus ac neque congue porttitor. Nam finibus magna ac lacus semper, ac elementum ligula congue."
   },
   {
     "id": 3,
-    "path": "pottery",
+    "path": "pottery3",
     "pictureUrl": "/images/pottery.jpg",
     "title": "Pottery course",
     "timing": "160 hours",
-    "text": "Craft unique and organic ceramics using simple pottery methods."
+    "instructor": "John Doe",
+    "text": "Craft unique and organic ceramics using simple pottery methods.",
+    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor malesuada venenatis. Curabitur efficitur augue eu elit interdum malesuada. Nullam commodo dolor eu lacus suscipit, nec tincidunt nisi accumsan. Aliquam sagittis condimentum condimentum. Phasellus a bibendum urna, ac vulputate purus. Integer auctor ligula ante, vel convallis orci varius ac. Cras id metus at arcu bibendum mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque id nibh egestas, bibendum velit vel, bibendum diam. Duis ac tortor augue. In ullamcorper condimentum pharetra. Nunc condimentum scelerisque nisi ut hendrerit. Vivamus eu ipsum gravida, tempus libero at, suscipit dolor.",
+    "description2": "Integer rhoncus nibh non turpis accumsan, eget aliquam purus bibendum. Praesent interdum tristique sapien, ac elementum eros venenatis posuere. Fusce quis lorem faucibus, dictum ex vel, scelerisque erat. In vel ornare eros. Phasellus tempor urna at nisi blandit, ut tristique massa iaculis. Mauris pretium augue vitae est aliquet, sit amet tristique ex luctus. Suspendisse venenatis nisi at ligula consequat egestas. Nulla aliquet vehicula neque. Pellentesque aliquam molestie scelerisque. Phasellus ultricies odio non augue ornare, porta dignissim enim faucibus.",
+    "description3": "Sed nec felis sapien. Sed et magna eget massa posuere aliquam. Proin tristique sem condimentum sem porttitor euismod. Sed mi nibh, consequat eu sagittis in, lobortis a diam. Phasellus turpis mauris, vehicula vitae elit sit amet, tempor commodo nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer id nisi sodales, auctor urna non, volutpat turpis. Praesent vel posuere nunc, et tempor est. Donec ultricies lectus ac neque congue porttitor. Nam finibus magna ac lacus semper, ac elementum ligula congue."
   },
   {
     "id": 4,
-    "path": "jewelry",
+    "path": "jewelry4",
     "pictureUrl": "/images/jewelry.jpg",
     "title": "Jewelry course",
     "timing": "80 hours",
-    "text": "Learn decorative techniques for creating a unique collection of jewelry."
+    "instructor": "Jane Doe",
+    "text": "Learn decorative techniques for creating a unique collection of jewelry.",
+    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor malesuada venenatis. Curabitur efficitur augue eu elit interdum malesuada. Nullam commodo dolor eu lacus suscipit, nec tincidunt nisi accumsan. Aliquam sagittis condimentum condimentum. Phasellus a bibendum urna, ac vulputate purus. Integer auctor ligula ante, vel convallis orci varius ac. Cras id metus at arcu bibendum mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque id nibh egestas, bibendum velit vel, bibendum diam. Duis ac tortor augue. In ullamcorper condimentum pharetra. Nunc condimentum scelerisque nisi ut hendrerit. Vivamus eu ipsum gravida, tempus libero at, suscipit dolor.",
+    "description2": "Integer rhoncus nibh non turpis accumsan, eget aliquam purus bibendum. Praesent interdum tristique sapien, ac elementum eros venenatis posuere. Fusce quis lorem faucibus, dictum ex vel, scelerisque erat. In vel ornare eros. Phasellus tempor urna at nisi blandit, ut tristique massa iaculis. Mauris pretium augue vitae est aliquet, sit amet tristique ex luctus. Suspendisse venenatis nisi at ligula consequat egestas. Nulla aliquet vehicula neque. Pellentesque aliquam molestie scelerisque. Phasellus ultricies odio non augue ornare, porta dignissim enim faucibus.",
+    "description3": "Sed nec felis sapien. Sed et magna eget massa posuere aliquam. Proin tristique sem condimentum sem porttitor euismod. Sed mi nibh, consequat eu sagittis in, lobortis a diam. Phasellus turpis mauris, vehicula vitae elit sit amet, tempor commodo nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer id nisi sodales, auctor urna non, volutpat turpis. Praesent vel posuere nunc, et tempor est. Donec ultricies lectus ac neque congue porttitor. Nam finibus magna ac lacus semper, ac elementum ligula congue."
   },
   {
     "id": 5,
-    "path": "sewing",
+    "path": "sewing5",
     "pictureUrl": "/images/sewing.jpg",
     "title": "Sewing course",
     "timing": "220 hours",
-    "text": "Learn how to use a sewing machine and start creating unique outfits from scratch."
+    "instructor": "Jane Doe",
+    "text": "Learn how to use a sewing machine and start creating unique outfits from scratch.",
+    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porttitor malesuada venenatis. Curabitur efficitur augue eu elit interdum malesuada. Nullam commodo dolor eu lacus suscipit, nec tincidunt nisi accumsan. Aliquam sagittis condimentum condimentum. Phasellus a bibendum urna, ac vulputate purus. Integer auctor ligula ante, vel convallis orci varius ac. Cras id metus at arcu bibendum mollis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque id nibh egestas, bibendum velit vel, bibendum diam. Duis ac tortor augue. In ullamcorper condimentum pharetra. Nunc condimentum scelerisque nisi ut hendrerit. Vivamus eu ipsum gravida, tempus libero at, suscipit dolor.",
+    "description2": "Integer rhoncus nibh non turpis accumsan, eget aliquam purus bibendum. Praesent interdum tristique sapien, ac elementum eros venenatis posuere. Fusce quis lorem faucibus, dictum ex vel, scelerisque erat. In vel ornare eros. Phasellus tempor urna at nisi blandit, ut tristique massa iaculis. Mauris pretium augue vitae est aliquet, sit amet tristique ex luctus. Suspendisse venenatis nisi at ligula consequat egestas. Nulla aliquet vehicula neque. Pellentesque aliquam molestie scelerisque. Phasellus ultricies odio non augue ornare, porta dignissim enim faucibus.",
+    "description3": "Sed nec felis sapien. Sed et magna eget massa posuere aliquam. Proin tristique sem condimentum sem porttitor euismod. Sed mi nibh, consequat eu sagittis in, lobortis a diam. Phasellus turpis mauris, vehicula vitae elit sit amet, tempor commodo nunc. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer id nisi sodales, auctor urna non, volutpat turpis. Praesent vel posuere nunc, et tempor est. Donec ultricies lectus ac neque congue porttitor. Nam finibus magna ac lacus semper, ac elementum ligula congue."
   }
 ]

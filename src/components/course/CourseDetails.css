@@ -1,0 +1,43 @@
+.course-details-section {
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+  padding: 4rem;
+  background: #fff;
+}
+
+.details-cont {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.course-btn-cont {
+  align-self: flex-end;
+}
+
+.details-cont h2 {
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.instructor,
+.timing,
+.course-description {
+  font-size: 16px;
+}
+
+.course-description {
+  text-align: justify;
+}
+
+.short-text {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+@media (max-width: 820px) {
+  .course-details-section {
+    padding: 2rem;
+  }
+}

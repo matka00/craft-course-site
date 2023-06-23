@@ -16,6 +16,11 @@
   background-color: #d4d3d3;
 }
 
+.btn-dark {
+  background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+  color: #fff;
+}
+
 .btn-outline {
   background-color: transparent;
   color: #fff;

@@ -1,15 +1,22 @@
 import React from "react";
 
-import "./HeroSection.css";
+import "./CourseHeader.css";
+import CourseData from "../../assets/courses.json";
+import { Link, useParams } from "react-router-dom";
 import Button from "../ui/Button";
-import { Link } from "react-router-dom";
 
-function HeroSection() {
+function CourseHeader() {
+  const { courseId } = useParams();
+  const thisCourse = CourseData.find((course) => course.path === courseId);
+
   return (
     <>
-      <section className="hero-cont">
-        <h1>HANDICRAFT AWAITS</h1>
-        <p>What are you waiting for?</p>
+      <section className="course-header-cont">
+        <h1>{thisCourse.title}</h1>
+        <img
+          src={process.env.PUBLIC_URL + thisCourse.pictureUrl}
+          alt={thisCourse.title}
+        />
         <div className="hero-btns">
           <Link to="/notice">
             <Button buttonStyle={"btn-outline"} buttonSize={"btn-large"}>
@@ -27,4 +34,4 @@ function HeroSection() {
   );
 }
 
-export default HeroSection;
+export default CourseHeader;
