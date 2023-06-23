@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import Navbar from "./components/nav/Navbar";
 import Footer from "./components/footer/Footer";
@@ -12,18 +12,16 @@ import Notice from "./components/pages/Notice";
 function App() {
   return (
     <>
-      <BrowserRouter>
-        <Navbar />
-        <Routes>
-          <Route path="/" exact element={<Home />} />
-          <Route path="/:courseId" element={<Course />} />
-          <Route path="/projects" element={<Projects />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/sign-up" element={<SignUp />} />
-          <Route path="/notice" element={<Notice />} />
-        </Routes>
-        <Footer />
-      </BrowserRouter>
+      <Navbar />
+      <Routes>
+        <Route path="/" exact element={<Home />} />
+        <Route path="/:courseId" element={<Course />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/sign-up" element={<SignUp />} />
+        <Route path="/notice" element={<Notice />} />
+      </Routes>
+      <Footer />
     </>
   );
 }
