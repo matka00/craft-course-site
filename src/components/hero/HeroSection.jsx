@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
 function HeroSection() {
   return (
     <>
-      <section className="hero-cont">
+      <section className="hero-cont" id="head">
         <h1>HANDICRAFT AWAITS</h1>
         <p>What are you waiting for?</p>
         <div className="hero-btns">

@@ -5,7 +5,9 @@ import "./HeaderSection.css";
 function HeaderSections({ children, headerClass }) {
   return (
     <>
-      <section className={`header-section ${headerClass}`}>{children}</section>
+      <section className={`header-section ${headerClass}`} id="head">
+        {children}
+      </section>
     </>
   );
 }

@@ -5,6 +5,11 @@
   font-family: "Assistant", sans-serif;
 }
 
+#head {
+  position: relative;
+  z-index: 2000;
+}
+
 h1 {
   font-size: 100px;
 }

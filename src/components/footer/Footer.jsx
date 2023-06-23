@@ -3,6 +3,7 @@ import React from "react";
 import "./Footer.css";
 import Button from "../ui/Button";
 import { Link } from "react-router-dom";
+import ScrollUp from "./ScrollUp";
 
 function Footer() {
   return (
@@ -91,6 +92,9 @@ function Footer() {
               </Link>
             </div>
           </div>
+        </div>
+        <div className="footer-up-icon">
+          <ScrollUp />
         </div>
       </section>
     </>

@@ -11,7 +11,7 @@ function CourseHeader() {
 
   return (
     <>
-      <section className="course-header-cont">
+      <section className="course-header-cont" id="head">
         <h1>{thisCourse.title}</h1>
         <img
           src={process.env.PUBLIC_URL + thisCourse.pictureUrl}
